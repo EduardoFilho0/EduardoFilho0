@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Atualmente estou dando meus primeiros passos na área de tecnologia.  
-Venho de uma trajetória em logística e operações, e agora estou focado em aprender programação — especialmente com Python.
+Venho de uma trajetória em logística e operações, e agora estou focado em aprender programação — especialmente com Python, mas estou aberto a aprender novas/outras linguagens de programação.
 
 Tenho estudado por conta própria através de vídeos, livros, cursos online e, principalmente, colocando a mão na massa com pequenos projetos.
 
@@ -21,8 +21,6 @@ Aqui estão alguns projetos que desenvolvi:
 
 - [**Drive Mail Automation**](https://github.com/EduardoFilho0/driver-mail-automation) – Automação de download de arquivos do Google Drive e envio de e-mails.  
 - (Em breve: outros projetos de análise de dados, scripts úteis e experimentos com Python)
-
-> 💡 Dica: adicione uma linha de descrição curta para cada novo projeto que subir, isso deixa seu portfólio claro e organizado.
 
 ---
 
