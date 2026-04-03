@@ -1,24 +1,42 @@
-# 👋 Fala, tudo certo? Eu sou o Eduardo Dias!
+# 👋 Olá, eu sou o Eduardo Dias!
 
+## Sobre mim
 Atualmente estou dando meus primeiros passos na área de tecnologia.  
-Venho de uma trajetória profissional em logística e operações, e agora estou focado em aprender programação — especialmente com **Python**.
+Venho de uma trajetória em logística e operações, e agora estou focado em aprender programação — especialmente com Python.
 
 Tenho estudado por conta própria através de vídeos, livros, cursos online e, principalmente, colocando a mão na massa com pequenos projetos.
 
-Meu foco hoje é:
-- Automatizar tarefas com Python
-- Aprender mais sobre **análise de dados** e **inteligência artificial**
-- Melhorar meu raciocínio lógico e minha organização de código
+---
 
-Ainda estou construindo meu portfólio aqui no GitHub, então em breve você vai encontrar por aqui:
-- Scripts úteis que automatizam atividades do dia a dia
-- Projetos simples de análise de dados
-- Experimentos com bibliotecas como Pandas, Matplotlib, etc.
+## 🎯 Meus focos atuais
+- Automatizar tarefas com Python  
+- Aprender mais sobre análise de dados e inteligência artificial  
+- Melhorar meu raciocínio lógico e organização de código
 
-Se quiser trocar uma ideia, dar um feedback ou até indicar algo pra estudar, fique à vontade para me chamar no LinkedIn ou por e-mail 👇
+---
 
-- 📧 eduardodias.dev@outlook.com  
-- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/eduardo-dias-dos-santos-filho)
+## 🚀 Projetos
+
+Aqui estão alguns projetos que desenvolvi:
+
+- [**Drive Mail Automation**](https://github.com/EduardoFilho0/driver-mail-automation) – Automação de download de arquivos do Google Drive e envio de e-mails.  
+- (Em breve: outros projetos de análise de dados, scripts úteis e experimentos com Python)
+
+> 💡 Dica: adicione uma linha de descrição curta para cada novo projeto que subir, isso deixa seu portfólio claro e organizado.
+
+---
+
+## 💼 Interesse profissional
+Estou em busca de **oportunidades para trocar de área e aprender novas habilidades**.  
+Não estou focado em salário neste momento — minha prioridade é **ganhar experiência prática e crescer profissionalmente** na área de tecnologia.
+
+---
+
+## 📫 Contato
+Se quiser trocar uma ideia, dar feedback ou indicar algo para estudar:
+
+📧 [eduardodias.dev@outlook.com](mailto:eduardodias.dev@outlook.com)  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/eduardo-dias-dos-santos-filho)
 
 ---
 
