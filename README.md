@@ -20,7 +20,10 @@ Tenho estudado por conta própria através de vídeos, livros, cursos online e, 
 Aqui estão alguns projetos que desenvolvi:
 
 - [**Drive Mail Automation**](https://github.com/EduardoFilho0/driver-mail-automation) – Automação de download de arquivos do Google Drive e envio de e-mails.  
-- (Em breve: outros projetos de análise de dados, scripts úteis e experimentos com Python)
+- [**Automatic File Organizer**](https://github.com/EduardoFilho0/automatic-file-organizer) - Automação de organização de arquivos em específicos e separá-los por pasta.
+- [**Calculator**](https://github.com/EduardoFilho0/Calculator) - Calculadora que realiza operações básicas (por enquanto).
+- [**Temperature Converter**](https://github.com/EduardoFilho0/temperature-converter) -  Conversor de temperaturas (Celsius, Fahrenheit e Kelvin).
+- (Em breve: outros projetos de análise de dados, scripts úteis e experimentos com Python com o intuito de demonstrar meu aprendizado)
 
 ---
 
